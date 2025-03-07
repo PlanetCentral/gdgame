@@ -3363,6 +3363,98 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 2/a7e3ce8951f0e8a6d1418ac6d158757d663f089d2b7c802accc326547243dbd0_Cat 2_Walk_8.png",
           "name": "Cat 2_Walk_8.png"
         }
+      },
+      {
+        "file": "dialogue_box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dialogue_box.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "name_box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "name_box.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "images__2_-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images__2_-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "option_box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "option_box.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/dialoguedata.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/dialoguedata.json\"}",
+        "name": "dialoguedata",
+        "userAdded": false
+      },
+      {
+        "file": "Screenshot_2025-03-07_191628-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Screenshot_2025-03-07_191628-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Right-Arrow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Right-Arrow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Shadow/3ac4ccfca394be1b0e90c245ed85246d69ad1324d0cc398d74b9a944f9e14605_Right-Arrow.png",
+          "name": "Right-Arrow.png"
+        }
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/dialoguedata01.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/dialoguedata01.json\"}",
+        "name": "dialoguedata01",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/New dialogue tree.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\"}",
+        "name": "New dialogue tree",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/New dialogue tree2.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\"}",
+        "name": "New dialogue tree2",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/New dialogue tree3.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\"}",
+        "name": "New dialogue tree3",
+        "userAdded": false
       }
     ],
     "resourceFolders": []
